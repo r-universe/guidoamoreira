@@ -1,0 +1,14 @@
+[
+  {
+    "package": "bayesPO",
+    "oncran": true
+  },
+  {
+    "package": "pompp",
+    "oncran": true
+  },
+  {
+    "package": "sumR",
+    "oncran": true
+  }
+]
