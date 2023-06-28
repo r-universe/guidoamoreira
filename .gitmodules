@@ -1,20 +1,13 @@
 [submodule ".registry"]
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
-	shallow = true
 	branch = HEAD
 [submodule "bayesPO"]
 	path = bayesPO
 	url = https://github.com/guidoamoreira/bayespo
-	shallow = true
-	registered = true
 [submodule "pompp"]
 	path = pompp
 	url = https://github.com/guidoamoreira/pompp
-	shallow = true
-	registered = true
 [submodule "sumR"]
 	path = sumR
 	url = https://github.com/guidoamoreira/sumr
-	shallow = true
-	registered = true
